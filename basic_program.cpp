@@ -17,6 +17,6 @@ int calculateFactorial(int n){
 }
 
 int sum(int a, int b){
-    return a+b;
+    return a+b*2;
 }
 frizvi99/Git-Assignment-Individual-1-BS1560
