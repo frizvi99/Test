@@ -3,6 +3,7 @@
 
 int main(){
     cout<<"Hello "; //intentionally deleted world..
+    calculateFactorial(10);
 }
 
 int calculateFactorial(int n){
